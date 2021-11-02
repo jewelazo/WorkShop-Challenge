@@ -1,4 +1,4 @@
-# React take home assignment
+# React workshop challenge
 
 [2021-11-02_5.20.31.png]
 
