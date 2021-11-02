@@ -26,3 +26,6 @@ https://5aa9487a4cf36300144e961d.mockapi.io/api/v1/properties_alternative/:id
 Each endpoint accepts GET requests and takes a parameter id. The propertyId from the local app state should be passed through to the API call.
 
 The API endpoints will return a not found message if the propertyId is invalid. Each API endpoint only supports some property IDs, so you need to handle this edge case and update the UI accordingly.
+
+Tip:
+You can use Material UI to save time on setting up the layout, take a look at the docs https://mui.com/getting-started/usage/
