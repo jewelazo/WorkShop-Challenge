@@ -1,6 +1,6 @@
 # React workshop challenge
 
-[./2021-11-02_5.20.31.png]
+![react app](./2021-11-02_5.20.31.png)
 
 ## Part 1: UI and React state implementation
 
